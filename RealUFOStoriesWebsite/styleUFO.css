@@ -1,0 +1,65 @@
+
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 500px;
+    background-color:white;
+    background-image:url(images/SpaceImageUFOsite.jpg);
+    background-size:cover ;
+    background-repeat:no-repeat;
+    background-position:center;
+    
+}
+
+.container {
+    font-family:playfair, roboto; 
+    
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 2rem;
+    color: black;
+    width: 1024px;
+}
+img {
+    opacity: 70%;
+    
+}
+
+
+header {
+    
+    padding-top: 100px;
+    text-align: center;
+    background-attachment: fixed;
+    
+}
+
+
+
+div a {
+    padding-bottom: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-size: 1rem;
+    
+    
+}
+
+main {
+text-align:center;
+
+}
+
+iframe h1 {
+    text-align: center;
+    font-size: 15px;
+    color: silver;
+    margin-bottom: 50px;
+    
+}
+
